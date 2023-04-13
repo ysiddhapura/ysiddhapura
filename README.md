@@ -1,5 +1,61 @@
 ### Hi there 👋
 
+
+### Hey, welcome to Yashvi Siddhapura's GitHub
+
+This profile is linked to my work involving my Master's degree work.
+
+## Contributions
+
+### Highlights
+
+* Started [discussion](https://github.com/ChicoState/PantryNode/issues/26) on DeprecationWarning & mongoErrorContextSymbol bug
+* Actively Participated [discussion][https://github.com/ChicoState/PantryNode/issues/116] on Adding a linter to the frontend
+* Actively Participated [discussion](https://github.com/ChicoState/PantryNode/discussions/37) on integrating SKU Lookup. ChicoState/PantryNode#25
+
+### PantryNode
+
+| Type       | Link                     | Notes                                      |
+|------------|--------------------------|--------------------------------------------|
+| DevOps     | ChicoState/PantryNode#44 | Added Build Node Status Badge (#44)              | 
+| DevOps     | ChicoState/PantryNode#44 | README instructions - replaced with TravisCI instructions    | 
+| DevOps     | ChicoState/PantryNode#47 | Clean up linter rule overrides, worked on  @typescript-eslint/no-var-requires   | 
+| Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup, adding Quagga Library and Scanner.ejs page                     | 
+| PairProg.  | ChicoState/PantryNode#25 | Troubleshooting/Programming with [jayrevolinskyjr](https://github.com/jayrevolinskyjr)   |
+| CodeReview | ChicoState/PantryNode#62 | Implemented lfs for all image png, jpeg, and jpg files resolving #62            |
+| CodeReview | ChicoState/PantryNode#50 | Add README instructions to run ESLint locally      |
+| Research   | [SKU Feature Discussion#37](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
+| Research   | [Clean up linter rule overrides#47](https://github.com/ChicoState/PantryNode/issues/47)| @typescript no-var requires -research.    |            
+| Discussion | [Sprint 2 Retrospective #94](https://github.com/ChicoState/PantryNode/discussions/94) | Sprint 2 Retrospective.                     |
+| Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
+| Discussion | Integrate SKU lookup #25 | SKU Subtasks implementation and research                 |
+
+### Timeline
+
+* Sprint #1 - Started Feb 27th, 2023
+  - BL - PantryNode/issues/26
+  - PR - ChicoState/PantryNode#44 
+  - CR - ChicoState/PantryNode#50 
+  - DC - ChicoState/PantryNode#47 
+  - DC - ChicoState/PantryNode#25 
+* Sprint #2 - Started Mar 21st, 2023
+  - DC - https://github.com/ChicoState/PantryNode/issues/47
+  - DC - https://github.com/ChicoState/PantryNode/issues/25
+  - PR - ChicoState/PantryNode#132 
+  - CR - ChicoState/PantryNode#62 
+  - DC - https://github.com/ChicoState/PantryNode/discussions/54
+  - DC - https://github.com/ChicoState/PantryNode/discussion/94
+
+**Key:**
+
+- **PR** - PullRequest - I wrote code.
+- **CR** - CodeReview - I reviewed someone's change.
+- **BL** - BugLogging - I filed a GitHub Issue.
+- **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
+
+
+
+
 <!--
 **ysiddhapura/ysiddhapura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
