@@ -25,7 +25,7 @@ This profile is linked to my work involving my Master's degree work.
 | Research   | [Clean up linter rule overrides#47](https://github.com/ChicoState/PantryNode/issues/47)| @typescript no-var requires -research.    |            
 | Discussion | [Sprint 2 Retrospective #94](https://github.com/ChicoState/PantryNode/discussions/94) | Sprint 2 Retrospective.                     |
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
-| Discussion | [Issue #25 Question - 'Lookup SKU Codes' #37]|(https://github.com/ChicoState/PantryNode/discussions/37)| SKU Subtasks implementation |
+| Discussion | [Issue #25 Question - 'Lookup SKU Codes' #37](https://github.com/ChicoState/PantryNode/discussions/37)| SKU Subtasks implementation |
 
 ### Timeline
 
