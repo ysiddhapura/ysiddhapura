@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hey, welcome to Yashvi Siddhapura's GitHub
 
 This profile is linked to my work involving my Master's degree work.
@@ -28,12 +25,12 @@ This profile is linked to my work involving my Master's degree work.
 | Research   | [Clean up linter rule overrides#47](https://github.com/ChicoState/PantryNode/issues/47)| @typescript no-var requires -research.    |            
 | Discussion | [Sprint 2 Retrospective #94](https://github.com/ChicoState/PantryNode/discussions/94) | Sprint 2 Retrospective.                     |
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
-| Discussion | Integrate SKU lookup #25 | SKU Subtasks implementation and research                 |
+| Discussion | [Issue #25 Question - 'Lookup SKU Codes' #37]|(https://github.com/ChicoState/PantryNode/discussions/37)| SKU Subtasks implementation |
 
 ### Timeline
 
 * Sprint #1 - Started Feb 27th, 2023
-  - BL - PantryNode/issues/26
+  - BL -  https://github.com/ChicoState/PantryNode/issues/26
   - PR - ChicoState/PantryNode#44 
   - CR - ChicoState/PantryNode#50 
   - DC - ChicoState/PantryNode#47 
