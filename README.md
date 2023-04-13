@@ -1,6 +1,6 @@
 ### Hey, welcome to Yashvi Siddhapura's GitHub
 
-This profile is linked to my work involving my Master's degree work.
+This profile is linked to my work involving my Master's degree
 
 ## Contributions
 
