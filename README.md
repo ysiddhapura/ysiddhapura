@@ -21,6 +21,7 @@ This profile is linked to my work involving my Master's degree
 | PairProg.  | ChicoState/PantryNode#25 | Troubleshooting/Programming with [jayrevolinskyjr](https://github.com/jayrevolinskyjr)   |
 | CodeReview | ChicoState/PantryNode#62 | Implemented lfs for all image png, jpeg, and jpg files resolving #62            |
 | CodeReview | ChicoState/PantryNode#50 | Add README instructions to run ESLint locally      |
+| CodeReview | ChicoState/PantryNode#140 | Frontend UI #140            |
 | Research   | [SKU Feature Discussion#37](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
 | Research   | [Clean up linter rule overrides#47](https://github.com/ChicoState/PantryNode/issues/47)| @typescript no-var requires -research.    |            
 | Discussion | [Sprint 2 Retrospective #94](https://github.com/ChicoState/PantryNode/discussions/94) | Sprint 2 Retrospective.                     |
@@ -44,6 +45,7 @@ This profile is linked to my work involving my Master's degree
    - DC - https://github.com/ChicoState/PantryNode/issues/25
    - CR - ChicoState/PantryNode#62 
    - PR - ChicoState/PantryNode#132 
+   - CR - ChicoState/PantryNode#140
  
 
 **Key:**
