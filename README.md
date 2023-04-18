@@ -42,11 +42,12 @@ This profile is linked to my work involving my Master's degree
   - DC - https://github.com/ChicoState/PantryNode/issues/25
   - DC - https://github.com/ChicoState/PantryNode/discussions/54
   - DC - https://github.com/ChicoState/PantryNode/discussion/94
- * Sprint #3 April 4, 2023 - Started 2023
+ * Sprint #3 - Started April 4, 2023
    - DC - https://github.com/ChicoState/PantryNode/issues/25
    - CR - ChicoState/PantryNode#62 
    - PR - ChicoState/PantryNode#132 
    - CR - ChicoState/PantryNode#140
+ * Sprint #4 - Started April 20, 2023
  
 
 **Key:**
