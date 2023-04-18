@@ -18,7 +18,8 @@ This profile is linked to my work involving my Master's degree
 | DevOps     | ChicoState/PantryNode#44 | README instructions - replaced with TravisCI instructions    | 
 | DevOps     | ChicoState/PantryNode#47 | Clean up linter rule overrides, worked on  @typescript-eslint/no-var-requires   | 
 | Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup, adding Quagga Library and Scanner.ejs page                     | 
-| PairProg.  | ChicoState/PantryNode#25 | Troubleshooting/Programming with [jayrevolinskyjr](https://github.com/jayrevolinskyjr)   |
+| Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup, connecting the backend, adding routes, connecting frontend, integrating scanner on page and manually lookup barcode option                     | 
+| PairProg.  | ChicoState/PantryNode#25 | Troubleshooting/Programming with adding the Quagga Library/Frontend Scanner Page [jayrevolinskyjr](https://github.com/jayrevolinskyjr)   |
 | CodeReview | ChicoState/PantryNode#62 | Implemented lfs for all image png, jpeg, and jpg files resolving #62            |
 | CodeReview | ChicoState/PantryNode#50 | Add README instructions to run ESLint locally      |
 | CodeReview | ChicoState/PantryNode#140 | Frontend UI #140            |
