@@ -26,6 +26,7 @@ This profile is linked to my work involving my Master's degree
 | Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup, adding Quagga Library and Scanner.ejs page                     | 
 | Feature    | ChicoState/PantryNode#132 | Integrate SKU lookup, connecting the backend, adding routes, connecting frontend, integrating scanner on page and manually lookup barcode option, with help from [briswells]( https://github.com/briswells) for api route troubleshotting                  | 
 | PairProg.  | ChicoState/PantryNode#25 | Troubleshooting/Programming with adding the Quagga Library/Frontend Scanner Page [jayrevolinskyjr](https://github.com/jayrevolinskyjr)   |
+| PairProg.  | ChicoState/PantryNode#132 | Programming with adding Quagga API [Anoushka444](https://github.com/Anoushka444)   |
 | Feature    | ChicoState/PantryNode#187 | Fixed Bug fixes, with QuaggaCamera, with help from [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev) to fix frontend design                    |
 | Feature    | ChicoState/PantryNode#217 | Implemented the Donor Page Tasks for frontend/backend, specifically updating frontend with donors from database, Adding a donor with backend API, with help from [jayrevolinskyjr](https://github.com/jayrevolinskyjr) with troubleshooting JSON string variable names             | 
 | CodeReview | ChicoState/PantryNode#62 | Configure Git LFS           |
