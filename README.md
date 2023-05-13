@@ -47,9 +47,25 @@ This profile is linked to my work involving my Master's degree
    - CR - ChicoState/PantryNode#62 
    - PR - ChicoState/PantryNode#132 
    - CR - ChicoState/PantryNode#140
- * Sprint #4 - Started April 20, 2023
- 
-
+ * Sprint #4 - Started April 18, 2023
+   - CR - ChicoState/PantryNode#80
+   - CR - ChicoState/PantryNode#140
+   - DC - https://github.com/ChicoState/PantryNode/issues/139
+   - CR - ChicoState/PantryNode#149
+   - CR - ChicoState/PantryNode#163
+   - CR - ChicoState/PantryNode#174
+   - DC - https://github.com/ChicoState/PantryNode/issues/25
+   - PR - ChicoState/PantryNode#132
+   - DC - https://github.com/ChicoState/PantryNode/issues/184
+   - PR - ChicoState/PantryNode#187
+   - DC - https://github.com/ChicoState/PantryNode/issues/193
+   - PR - ChicoState/PantryNode#217
+   
+ * Sprint #5 - Started May 2, 2023
+   - DC - https://github.com/ChicoState/PantryNode/issues/193
+   - PR - ChicoState/PantryNode#217
+   - CR - ChicoState/PantryNode#230
+  
 **Key:**
 
 - **PR** - PullRequest - I wrote code.
