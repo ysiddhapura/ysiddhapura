@@ -80,6 +80,7 @@ This profile is linked to my work involving my Master's degree
    
  * Sprint #5 - Started May 2, 2023
    - DC - https://github.com/ChicoState/PantryNode/issues/193
+   - DS - https://github.com/ChicoState/PantryNode/issues/193
    - PR - ChicoState/PantryNode#217
    - CR - ChicoState/PantryNode#230
   
@@ -89,6 +90,7 @@ This profile is linked to my work involving my Master's degree
 - **CR** - CodeReview - I reviewed someone's change.
 - **BL** - BugLogging - I filed a GitHub Issue.
 - **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
+- **DS** - Design - I helped design.
 
 
 
